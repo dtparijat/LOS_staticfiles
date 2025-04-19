@@ -1,0 +1,1 @@
+# dtparijat.in.staticfiles
